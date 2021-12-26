@@ -1,0 +1,9 @@
+core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+core_cm4.h:2017:26:SysTick_Config	16	static
+main.c:65:5:main	24	static
+main.c:112:6:SystemClock_Config	96	static
+main.c:155:13:MX_GPIO_Init	16	static
+main.c:164:6:switchInit	32	static
+main.c:175:6:baseTransistInit	32	static
+main.c:186:6:segmentsInit	32	static
+main.c:202:6:Error_Handler	4	static,ignoring_inline_asm
