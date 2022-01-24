@@ -1,0 +1,12 @@
+stm32l4xx_it.c:102:6:NMI_Handler	4	static
+stm32l4xx_it.c:117:6:HardFault_Handler	4	static
+stm32l4xx_it.c:132:6:MemManage_Handler	4	static
+stm32l4xx_it.c:147:6:BusFault_Handler	4	static
+stm32l4xx_it.c:162:6:UsageFault_Handler	4	static
+stm32l4xx_it.c:177:6:SVC_Handler	4	static
+stm32l4xx_it.c:190:6:DebugMon_Handler	4	static
+stm32l4xx_it.c:203:6:PendSV_Handler	4	static
+stm32l4xx_it.c:216:6:SysTick_Handler	16	static
+stm32l4xx_it.c:265:6:inputHandling	8	static
+stm32l4xx_it.c:293:6:makeDigitFromFloatValue	32	static
+stm32l4xx_it.c:325:6:showDigit	24	static
